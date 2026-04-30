@@ -118,7 +118,12 @@ Dataset used from Kaggle containing:
 ## 10. Expected Output
 - Classification of news (Fake / Real)  
 - Accuracy report  
-- Graphs for model comparison  
+- Graphs for model comparison
+
+---
+
+## Live Demo
+  https://fake-news-detection-fekqieckdwqgofzaquofcn.streamlit.app
 
 ---
 
@@ -156,3 +161,8 @@ The Fake News Detection System uses Machine Learning and NLP techniques to class
 
 2. Run the app:
     streamlit run app.py
+
+---
+
+## Author
+**Varshini S**
