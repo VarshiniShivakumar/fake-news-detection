@@ -122,6 +122,31 @@ Dataset used from Kaggle containing:
 
 ---
 
+## Output Screenshots
+
+### Dataset Preview
+![Dataset](outputs/dataset_preview.png)
+
+### Fake vs Real News Distribution
+![Distribution](outputs/news_distribution.png)
+
+### Word Count Distribution
+![Word Count](outputs/word_count.png)
+
+### Model Accuracy
+![Accuracy](outputs/model_accuracy.png)
+
+### Accuracy Comparison
+![Comparison](outputs/accuracy_comparison.png)
+
+### Prediction - Real News
+![Real](outputs/prediction_real.png)
+
+### Prediction - Fake News
+![Fake](outputs/prediction_fake.png)
+
+---
+
 ## Live Demo
   https://fake-news-detection-fekqieckdwqgofzaquofcn.streamlit.app
 
